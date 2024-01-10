@@ -95,3 +95,9 @@ p {
     font-size: 100px;
     padding-top: 30px;
 }
+
+.cards a {
+    color: white;
+    text-decoration: none;
+
+}
